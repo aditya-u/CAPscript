@@ -1,0 +1,17 @@
+SQR - square
+CUB - cube
+RIG - shift right
+LEF - shift left
+PRI - print char
+DBL - double
+HAL - half
+PRC - output ascii value
+CLR - set cell to zero
+INI - int input
+LOO - start loop
+OOP - end loop
+INP - char input
+INC - increment
+DEC - decrement
+
+
