@@ -12,7 +12,9 @@ Lower case alphabets are treated as comments
 
 # Usage
 
-Give execute.sh rx permission and run along with .caps file to execute code
+Give CAP.sh rx permission and run along with .caps file to execute code
+
+Run CAP.bat along with .caps files in cmd for windows
 
 python3 CAPscript.py to run interpreter
 
