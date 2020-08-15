@@ -1,6 +1,6 @@
 # CAPscript
 
-CAPscript is an esoteric languge programmed in python.
+CAPscript is an esoteric language programmed in python.
 
 All commands are all caps
 
